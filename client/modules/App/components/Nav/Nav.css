@@ -1,0 +1,11 @@
+.nav {
+  display: inline-block;
+  list-style-type: none;
+  font-size: 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #fff;
+  padding: 10px;
+}

@@ -3,6 +3,7 @@
   background-size: cover;
   border-bottom: 1px solid #ccc;
   background-color: #0085DA;
+  
 }
 
 .content {
@@ -40,9 +41,8 @@
 
 .language-switcher ul {
   list-style: none;
-  width: 980px;
   margin: auto;
-  text-align: right;
+  text-align: center;
 }
 
 .language-switcher li {
